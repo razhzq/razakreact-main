@@ -1,0 +1,11 @@
+{ "stockPrices": [
+  { "stockName" : "AAPL", "stockLastHourPrice": 26.59, "id": 0},
+  { "stockName": "GOLD", "stockLastHourPrice": 1912.76," id": 1},
+  { "stockName": "COPP", "stockLastHourPrice": 123.1, "id": 2},
+  { "stockName": "JJMX", "stockLastHourPrice": 45.67, "id": 3},
+  {" stockName": "AMZN", "stockLastHourPrice": 450.78, "id": 4},
+  { "stockName": "IBM", "stockLastHourPrice": 10.56 , "id": 5},
+  { "stockName": "GOOGL", "stockLastHourPrice": 198.00 , "id": 6},
+  { "stockName": "POHKONG", "stockLastHourPrice": 1.00, "id": 7},
+  { "stockName": "ARSTECH", "stockLastHourPrice": 50.46, "id": 8}
+]}
